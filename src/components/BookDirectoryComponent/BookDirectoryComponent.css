@@ -1,0 +1,21 @@
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .book-card {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 300px;
+  }
+  
+  .book-card p {
+    margin: 5px 0;
+  }
+  

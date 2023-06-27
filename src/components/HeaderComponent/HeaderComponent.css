@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 1rem 1.5rem;
+    font-size: 50px;
+    border-bottom: 1px solid rgb(255, 254, 254);
+    border-top: 1px solid rgb(255, 254, 254);
+    border-radius: 15px;
+    border-width: 5px;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:inherit
+    
+
+  }
